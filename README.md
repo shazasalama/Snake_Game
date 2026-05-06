@@ -52,4 +52,9 @@ The game ends when the snake hits the wall or collides with itself.
 
   - Score increases  
 
-- Game ends on collision  
+- Game ends on collision
+
+---
+  
+##  Screenshots
+![Game Screenshot](اSnake Game 1.jpeg)
