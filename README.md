@@ -25,3 +25,31 @@ The game ends when the snake hits the wall or collides with itself.
 ## How to Run
 1. Open the project using Turbo C / Code::Blocks with graphics support  
 2. Make sure BGI folder path is correct: C:\TC\BGI
+
+---
+
+## Controls
+
+- W → Move Up  
+
+- S → Move Down  
+
+- A → Move Left  
+
+- D → Move Right  
+
+---
+
+## Game Logic
+
+- The snake moves continuously based on direction  
+
+- Food appears randomly on the screen  
+
+- When the snake eats food:
+
+  - Length increases  
+
+  - Score increases  
+
+- Game ends on collision  
